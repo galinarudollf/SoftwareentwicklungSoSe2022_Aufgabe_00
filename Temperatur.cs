@@ -7,13 +7,14 @@ namespace TemperatureCalculator
         static void Main(string[] args)
         {
             float fahrenheit, celsius;
-            celsius = 0,
-            fahrenheit = 9 / 5 * celsius + 32;
-            Console.WriteLine("{0} Celsius entspricht {0} Fahrenheit", celsius, fahrenheit);
+            celsius = 0;
+            fahrenheit = 9 / 5.0f * celsius + 32;
+            Console.WriteLine("{0} Celsius entspricht {1} Fahrenheit", celsius, fahrenheit);
             Console.WriteLine("Celsius: ");
-            celsius = Convert.ToFloat(Console.ReadLine());
-            fahrenheit = 9 / 5 * celsius + 32;
-            Console.WriteLine("Fahrenheit:", Fahrenheit);
+            celsius = Convert.ToSingle(Console.ReadLine());
+            fahrenheit = 9 / 5.0f * celsius + 32;
+            Console.WriteLine("Fahrenheit:{0}", fahrenheit);
         }
     }
 }
+
