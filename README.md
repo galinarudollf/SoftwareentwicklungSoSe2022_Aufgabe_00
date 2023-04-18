@@ -1,12 +1,12 @@
-# Softwareentwicklung SoSe2022 - Aufgabe 00
+# Softwareentwicklung SoSe2023 - Aufgabe 00
 
 In dieser Übung sollen Sie sich die verschiedenen Möglichkeiten der Erstellung von C# Programmen erarbeiten und diese evaluieren. Dabei sollen Sie verschiedene Editorkonzepte ausprobieren und im Hinblick auf Ihre Anforderungen testen. Verwenden Sie die von Ihnen ausgewählte Toolchain zum Lösen der gestellten Aufgaben.
 
 ## Bearbeitungszeit
 
-SWE: 2. Mai - 6. Mai 2022 (Mm, BWM, ROB, BAI, BGIP, BBWL, BBL, MGIN)
+SWE: 2. Mai - 5. Mai 2023 (Mm, BWM, ROB, BAI, BGIP, BBWL, BBL, MGIN)
 
-Einführung in SWE: 25. April - 6. Mai 2022 (KGB, BENG, VTC, MB)
+Einführung in SWE: 2. Mai - 12. Mai 2023 (KGB, BENG, VTC, MB)
 
 ## 1. Wahl der Werkzeuge
 
